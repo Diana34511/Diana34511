@@ -14,6 +14,8 @@ Skills: ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-
 - 📫 How to reach me: <br/>
 
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)<br/> diana34511@gmail.com
-!
+
+##### My statistics:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diana34511&layout=compact)](https://github.com/Diana34511/github-readme-stats)
 
 
